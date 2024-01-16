@@ -37,7 +37,21 @@ In order to be able to view and control the currently playing song, the app requ
 
 The app does not retrieve any information from the notifications other than the title, artist and album cover of the currently playing song.
 
-The app does not send any information about the currently playing song or other notifications anywhere.
+The app does not send any information about the currently playing song or other notifications anywhere
+
+### Ads
+
+Ads will be shown when the user wants to access the map. The ads are provided by [Google AdMob](https://admob.google.com/home/).
+
+As per [their documentation](https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically), the Google Mobile Ads SDK collects the following information:
+- IP address
+- User product interactions
+- Diagnostic information
+- Device and Account identifiers
+
+You can read more about the information collected by Google [here](https://support.google.com/admob/answer/7665968).
+
+When the map is not enabled, ads will not be displayed and this information will not be collected..
 
 ## What information is stored?
 
