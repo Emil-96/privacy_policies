@@ -57,7 +57,7 @@ When the map is not enabled, ads will not be displayed and this information will
 
 The app stores only the user's preferences, such as the selected visibility of the components and other customization options.
 
-No information about the user is stored and no information is sent anywhere other than [specified](#map).
+No information about the user is stored and no information is sent anywhere other than specified above.
 
 ## Permissions
 
